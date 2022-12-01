@@ -1,0 +1,51 @@
+id1,id2,cor,bc,name1,name2
+20,23,0.738095238,0.26096078,Curtobacterium,Clavibacter
+23,25,0.880952381,0.149464156,Clavibacter,Leucobacter
+23,133,0.904761905,0.063788838,Clavibacter,Allokutzneria
+23,134,0.714285714,0.144536418,Clavibacter,Kibdelosporangium
+23,164,0.880952381,0.090986899,Clavibacter,Bifidobacterium
+23,181,0.714285714,0.12876525,Clavibacter,Ilumatobacter
+23,184,0.80952381,0.298094319,Clavibacter,Egicoccus
+23,303,0.761904762,0.14267497,Clavibacter,Clostridiales Family XVII. Incertae Sedis
+23,437,0.833333333,0.237728544,Clavibacter,Synechococcus
+23,602,0.738095238,0.238700367,Clavibacter,Blastochloris tepida
+23,616,0.738095238,0.116834636,Clavibacter,unclassified Starkeya
+23,620,0.714285714,0.158305102,Clavibacter,unclassified Xanthobacter
+23,622,0.761904762,0.186427092,Clavibacter,unclassified Labrys (in: Bacteria)
+23,623,0.738095238,0.063192681,Clavibacter,unclassified Aureimonas
+23,640,0.714285714,0.266918675,Clavibacter,Stappia indica
+23,755,0.714285714,0.110549006,Clavibacter,Azospirillum thermophilum
+23,762,0.714285714,0.128143387,Clavibacter,Hypericibacter adhaerens
+23,763,0.738095238,0.123987119,Clavibacter,Hypericibacter terrae
+23,764,0.80952381,0.253826311,Clavibacter,unclassified Magnetospirillum
+23,770,0.714285714,0.272354328,Clavibacter,Tistrella mobilis
+23,772,0.80952381,0.288370916,Clavibacter,Nitrospirillum amazonense
+23,786,0.80952381,0.096783264,Clavibacter,Stella humosa
+23,846,0.833333333,0.251835682,Clavibacter,unclassified Sulfitobacter
+23,850,0.880952381,0.044770118,Clavibacter,Cereibacter sphaeroides
+23,947,0.785714286,0.145824797,Clavibacter,Phreatobacter stygius
+23,948,0.714285714,0.214990254,Clavibacter,Phreatobacter cathodiphilus
+23,1045,0.761904762,0.165482123,Clavibacter,pseudomallei group
+23,1151,0.80952381,0.146603181,Clavibacter,unclassified Achromobacter
+23,1270,0.738095238,0.12146304,Clavibacter,Chromobacterium
+23,1736,0.714285714,0.28947268,Clavibacter,unclassified Halomonas
+23,1931,0.714285714,0.201791544,Clavibacter,unclassified Solimonas
+23,1933,0.833333333,0.089930799,Clavibacter,Sulfurifustis variabilis
+23,2075,0.714285714,0.140459998,Clavibacter,Vulgatibacteraceae
+23,2082,0.80952381,0.284789996,Clavibacter,Desulfovibrio
+23,2083,0.80952381,0.231545772,Clavibacter,Pseudodesulfovibrio
+23,2147,0.714285714,0.247674414,Clavibacter,Paludisphaera
+23,2151,0.80952381,0.079246362,Clavibacter,Pirellulimonas
+23,2156,0.928571429,0.254795581,Clavibacter,Lignipirellula
+23,2168,0.880952381,0.144860936,Clavibacter,Gimesia
+23,2169,0.880952381,0.261820147,Clavibacter,Alienimonas
+23,2170,0.904761905,0.210628307,Clavibacter,Maioricimonas
+23,2179,0.857142857,0.051713763,Clavibacter,Humisphaera
+23,2192,0.761904762,0.234207083,Clavibacter,Verrucomicrobium
+23,2223,0.80952381,0.258217898,Clavibacter,Rikenellaceae
+23,2239,-0.738095238,0.292902371,Clavibacter,Sphingobacteriaceae
+23,2244,0.80952381,0.228665281,Clavibacter,Chlorobiaceae
+23,2253,0.761904762,0.250411595,Clavibacter,unclassified Granulicella
+23,2264,0.738095238,0.124156321,Clavibacter,Candidatus Solibacter usitatus
+23,2265,0.738095238,0.128335515,Clavibacter,Paludibaculum fermentans
+23,2428,0.904761905,0.267953851,Clavibacter,Halorubrum

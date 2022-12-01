@@ -1,0 +1,51 @@
+id1,id2,cor,diss,,
+71,1829,0.809147374,0.195188966,Methylobacterium nodulans,Clavibacter
+72,1829,0.812535291,0.203073958,Methylobacterium aquaticum,Clavibacter
+85,1829,0.713156409,0.231554778,Methylorubrum populi,Clavibacter
+256,1829,0.745906268,0.116567342,unclassified Azospirillum,Clavibacter
+257,1829,0.742518351,0.125322516,Azospirillum thermophilum,Clavibacter
+287,1829,0.717673631,0.098576271,unclassified Roseomonas,Clavibacter
+1323,1829,0.706380576,0.268029442,unclassified Halomonas,Clavibacter
+1760,1829,0.759457933,0.279649157,Desulfovibrio,Clavibacter
+1761,1829,0.776397516,0.247120608,Pseudodesulfovibrio,Clavibacter
+1822,1829,0.928853755,0.244503207,Kitasatospora,Clavibacter
+1823,1829,0.863354037,0.173900076,Streptacidiphilus,Clavibacter
+1827,1829,0.97515528,0.246543008,Curtobacterium,Clavibacter
+1829,1830,0.747035573,0.060787026,Clavibacter,Agrococcus
+1829,1831,0.817052513,0.157799623,Clavibacter,Leucobacter
+1829,1857,0.863354037,0.206795574,Clavibacter,Sinomonas
+1829,1871,0.915302089,0.278656607,Clavibacter,Xylanimonas
+1829,1878,0.885940147,0.054638478,Clavibacter,Janibacter
+1829,1879,0.89271598,0.108185401,Clavibacter,Phycicoccus
+1829,1880,0.861095426,0.277107127,Clavibacter,Intrasporangium
+1829,1884,0.887069452,0.203265611,Clavibacter,Ornithinimicrobium
+1829,1885,0.924336533,0.067382319,Clavibacter,Serinicoccus
+1829,1896,0.803500847,0.085068265,Clavibacter,Ruania
+1829,1907,0.858836815,0.208547022,Clavibacter,Mycobacteroides
+1829,1915,0.957086392,0.099311287,Clavibacter,Dietzia
+1829,1916,0.801242236,0.162860187,Clavibacter,Tsukamurella
+1829,1924,0.820440429,0.086742815,Clavibacter,Actinocatenispora
+1829,1933,0.889328063,0.068111619,Clavibacter,Actinoalloteichus
+1829,1934,0.824957651,0.061451482,Clavibacter,Actinosynnema
+1829,1936,0.89271598,0.135477922,Clavibacter,Kutzneria
+1829,1937,0.751552795,0.124292969,Clavibacter,Kibdelosporangium
+1829,1938,0.804630152,0.26809712,Clavibacter,Alloactinosynnema
+1829,1943,0.87012987,0.250313684,Clavibacter,Friedmanniella
+1829,1948,0.954827781,0.16586979,Clavibacter,Tessaracoccus
+1829,1949,0.934500282,0.261401611,Clavibacter,Propionibacterium
+1829,1950,0.949181254,0.282896524,Clavibacter,Acidipropionibacterium
+1829,1959,0.87012987,0.140217507,Clavibacter,Actinopolymorpha
+1829,1962,0.79785432,0.178030769,Clavibacter,Thermobispora
+1829,1986,0.897233202,0.14128055,Clavibacter,Nakamurella
+1829,1987,0.941276115,0.126273169,Clavibacter,Bifidobacterium
+1829,1991,0.92998306,0.142560001,Clavibacter,Catenulispora
+1829,2004,0.900621118,0.146167664,Clavibacter,Ilumatobacter
+1829,2020,0.913043478,0.199893267,Clavibacter,Euzebya
+1829,2021,0.927724449,0.209095366,Clavibacter,Egibacter
+1829,2022,0.919819311,0.21373694,Clavibacter,Egicoccus
+1829,2131,0.862224732,0.098951104,Clavibacter,Clostridiales Family XVII. Incertae Sedis
+1829,2266,0.844155844,0.229762234,Clavibacter,Synechococcus
+1829,2313,0.852060982,0.255004931,Clavibacter,Thermus
+1829,2318,0.763975155,0.129505939,Clavibacter,Sphaerobacterineae
+1829,2353,0.716544325,0.144428105,Clavibacter,Pirellulimonas
+1829,2637,0.906267645,0.218756569,Clavibacter,Halorubrum
