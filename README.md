@@ -15,6 +15,7 @@ Becarios
 - Dr César Mijangos  
 
 ## clavibacter
+[Generador de reads](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)
 [Clavibacter Search](https://bedxxe.github.io/clavibacter/)
 
 Workshop attendance 
