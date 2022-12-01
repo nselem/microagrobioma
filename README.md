@@ -1,5 +1,5 @@
-# microagrobioma  
-This repo contains the work for conacyt project  
+# This repo contains the work for conacyt project  
+"MicroAgrobioma, una plataforma para estudiar microbioma tradicional y cambio de hospedero en enfermedades de plantas de relevancia agrícola"
 
 Investigadora 
 Nelly Sélem Mojica  
@@ -13,3 +13,8 @@ Becarios
 - Jazmín 
 - Julio César
 - Dr César Mijangos  
+
+## clavibacter
+[Clavibacter Search](https://bedxxe.github.io/clavibacter/)
+
+Workshop attendance 
