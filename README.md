@@ -19,3 +19,6 @@ Becarios
 [Clavibacter Search](https://bedxxe.github.io/clavibacter/)
 
 Workshop attendance 
+cab  
+Women in bioinformatics  
+ISCB  
