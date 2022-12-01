@@ -1,0 +1,118 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="pcoded-main-container">
+      <div class = "pcoded-content">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h1>Results</h1>
+                </div>
+                <div class="card-body">
+    {{ table_html | safe }}
+                </div>
+ <!--   <button onclick="exportTableToCSV('HapmodPredictions.csv')">Download</button> -->
+
+    <script>
+      function downloadCSV(csv, filename) {
+        var csvFile;
+        var downloadLink;
+
+        // CSV file
+        csvFile = new Blob([csv], {type: "text/csv"});
+
+        // Download link
+        downloadLink = document.createElement("a");
+
+        // File name
+        downloadLink.download = filename;
+
+        // Create a link to the file
+        downloadLink.href = window.URL.createObjectURL(csvFile);
+
+        // Hide download link
+        downloadLink.style.display = "none";
+
+        // Add the link to DOM
+        document.body.appendChild(downloadLink);
+
+        // Click download link
+        downloadLink.click();
+      }
+
+      function exportTableToCSV(filename) {
+        var csv = [];
+        var rows = document.querySelectorAll("table tr");
+
+        for (var i = 0; i < rows.length; i++) {
+            var row = [], cols = rows[i].querySelectorAll("td, th");
+
+            for (var j = 0; j < cols.length; j++)
+                row.push(cols[j].innerText);
+
+            csv.push(row.join(","));
+        }
+
+        // Download CSV file
+        downloadCSV(csv.join("\n"), filename);
+      }
+    </script>
+    </div>
+
+    <div class="card">
+        <div class="card=body">
+            <div id="chart0" class="chart">
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card=body">
+            <div id="chart1" class="chart">
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card=body">
+            <div id="chart2" class="chart">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="card">
+    </div>
+
+  <script type="text/javascript">
+    // $('#table_html').DataTable( { buttons: [ 'csvHtml5' ] , "autowidth": true , "columnDefs": [ { "width": ".1%", "targets":3} ] } );
+    //$('#table_html').DataTable( {   buttons: [  'copy', 'csv', 'excel', 'pdf', 'print' ] } );
+    $(document).ready(function() {
+    $('#table_html').DataTable( {
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ]
+    } );
+} );
+  </script>
+    <script>
+        var graphs0 = {{plot0 | safe}};
+        Plotly.plot('chart0',graphs0,{});
+
+        var graphs1 = {{plot1 | safe}};
+        Plotly.plot('chart1',graphs1,{});
+
+        var graphs2 = {{plot2 | safe}};
+        Plotly.plot('chart2',graphs2,{});
+
+    </script>
+    <!-- script src="/static/assets/js/plugins/apexcharts.min.js"></script-->
+    <!-- script src="/static/assets/js/chartsApex.js"></script-->
+
+  </div>
+
+      </div>
+  </div>
+
+{% endblock %}

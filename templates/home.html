@@ -1,0 +1,44 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="pcoded-main-container">
+      <div class = "pcoded-content">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h1>Welcome to TBD</h1>
+                </div>
+                <div class="card-body">
+                      <p class="lead">TBD is a tool for network interaction inference.</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h4>
+                        Network inference
+                    </h4>
+                    <form method="POST" action="" enctype="multipart/form-data">
+                      <div class="form-group">
+                        <label>File Upload</label>
+                        <input type="file" name="file" class="btn btn-outline-dark">
+                        <button type="submit" name="submit_button_network" value="byFile" class="btn btn-outline-dark">Submit File</button>
+                      </div>
+                    </form>
+
+                    <form action="" method="POST">
+                      <div class="form-group">
+                        <label>Run Id</label><br>
+                        <!-- <textarea type="text" name="runId" class="form-control" placeholder="1"></textarea> -->
+                        <input type="text" id="runId" name="runId" placeholder="" >
+                      </div>
+                      <button type="submit" name="submit_button_network" value="byRunId" class="btn btn-outline-dark">Submit</button>
+                    </form>
+
+                    {% if errorMsg %}
+                      <p class=error><strong>Error:</strong> {{ errorMsg }}</p>
+                    {% endif %}
+                </div>
+            </div>
+      </div>
+  </div>
+{% endblock %}

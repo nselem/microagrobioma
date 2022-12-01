@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="pcoded-main-container">
+      <div class = "pcoded-content">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h1>Results</h1>
+                </div>
+                <div class="card-body">
+                    <label>Run Id: </label>
+                    {{ runId | safe }}
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

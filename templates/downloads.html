@@ -1,0 +1,176 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="pcoded-main-container">
+      <div class = "pcoded-content">
+        <div class="col-sm-12">
+            <div class="card">
+                <div class="card-header">
+                    <h1>Downloads</h1>
+                </div>
+                <!-- <div class="card-body">
+                    <label>Folder: </label>
+                    {{ fileList | safe }}
+                </div> -->
+                <div class="card-body">
+                  <h4>
+                    Available files
+                  </h4>                  
+
+
+                  <form action="" method="POST">
+                    <div class="form-group">
+                      {{ tableFileList_html | safe }}                      
+                      <button type="download" id="download_button_table" name="download_button_table" class="btn btn-outline-dark">Download</button>
+                      <input hidden type="text" id="label_selected_files" name="label_selected_files"></label>
+                    </div>
+                  </form>
+
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                  <h4>
+                      Download data
+                  </h4>
+                  <form action="" method="POST">
+                    <div class="form-group">
+                      <input type="text" id="downloadFileName" name="downloadFileName" placeholder="" >
+                      <button type="download" id="download_button_single" name="download_button_single" value="download_button_single" class="btn btn-outline-dark">Download</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+      // $('#table_html').DataTable( { buttons: [ 'csvHtml5' ] , "autowidth": true , "columnDefs": [ { "width": ".1%", "targets":3} ] } );
+      //$('#table_html').DataTable( {   buttons: [  'copy', 'csv', 'excel', 'pdf', 'print' ] } );
+      $(document).ready(function() {
+/*        var table = $('#tableFileList_html').DataTable( {
+          dom: 'Bfrtip',
+          buttons: [],//    'copy', 'csv', 'excel', 'pdf', 'print'
+          columnDefs: [ {
+            orderable: false,
+            className: 'select-checkbox',
+            targets:   0
+            } ],
+          select: {
+            style:    'os',
+            selector: 'td:first-child'
+            },
+          order: [[ 1, 'asc' ]]
+        } );
+*/
+        var table = $('#tableFileList_html').DataTable( {
+          columnDefs: [ {
+              orderable: false,
+              className: 'select-checkbox',
+              targets:   0,
+              "width": "8px"
+          } ],
+          select: {
+              style:    'multi',// single multi os https://datatables.net/reference/api/select.style()
+              selector: 'td:first-child'
+          },
+          order: [[ 1, 'asc' ]]
+        } );
+/**/
+// on click copy row data to label
+        $('#tableFileList_html tbody').on('click', 'tr', function () {
+          //var data = table.row(this).data();
+          //alert('You clicked on ' + data[0] + "'s row");
+          //document.getElementById('downloadFileName').value = data[1];
+          
+          var selectedRowsData = table.rows('.selected').data();
+          const selectedRowsIds = [];
+          for (let i = 0; i < selectedRowsData.length; i++) {
+          // second element contains the file name
+            selectedRowsIds.push(selectedRowsData[i][1]);
+          } 
+          var row = table.row( this ).data();//table.row($(this).parents('tr')).data();
+          // remove clicked row if it is already in array (meaning it was deselected)
+          /*
+          if( selectedRowsIds.includes(row[1]) )
+          {
+            selectedRowsIds.splice(selectedRowsIds.indexOf(row[1]),1)
+          }
+          else
+          {
+            selectedRowsIds.push(row[1])
+          }
+          */
+          selectedRowsIds.push(row[1])
+          data_json = JSON.stringify(selectedRowsIds);
+          document.getElementById('downloadFileName').value = data_json;
+          document.getElementById('download_button_single').value = data_json;
+          document.getElementById('label_selected_files').value = data_json;
+        });
+/**/
+        $('download_button_table').click(function ()
+        {
+          var selectedRowsData = table.rows('.selected').data();
+          const selectedRowsIds = [];
+          for (let i = 0; i < selectedRowsData.length; i++) {
+          // second element contains the file name
+            selectedRowsIds.push(selectedRowsData[i][1]);
+          } 
+          alert('You clicked on ' + selectedRowsIds + "'s row");
+          document.getElementById('label_selected_files').value = selectedRowsIds; 
+        });
+/*
+        $('#download_button_table').click(function () {
+          //table = document.getElementById('tableFileList_html');
+          var selectedRowsData = table.rows('.selected').data();
+          const selectedRowsIds = [];
+          for (let i = 0; i < selectedRowsData.length; i++) {
+          // second element contains the file name
+            selectedRowsIds.push(selectedRowsData[i][1]);
+          } 
+
+          data_json = JSON.stringify(selectedRowsIds);
+          //alert(table.rows('.selected').data().length + ' row(s) selected' + dataYo + ' json: ' +data_json);
+          $.ajax({
+            type: 'POST',
+            url: 'downloads',//'http://localhost:8080//RedlogServer3/Servlet',
+            dataType: 'json',
+            data:  data_json,
+            //data: dataYo,//{json: JSON.stringify(dataYo)},
+            success: function (data) {
+                alert('success insert');
+            }
+          });
+*/          
+/*
+          let result = document.querySelector('.result');
+          let xhr = new XMLHttpRequest();
+          let url = "downloads";
+      
+          // open a connection
+          xhr.open("POST", url, true);
+
+          // Set the request header i.e. which type of content you are sending
+          xhr.setRequestHeader("Content-Type", "application/json");
+
+          // Create a state change callback
+          xhr.onreadystatechange = function () {
+              if (xhr.readyState === 4 && xhr.status === 200) {
+                  // Print received data from server
+                  result.innerHTML = this.responseText;
+              }
+          };
+
+          // Converting JSON data to string
+          //var data_json = JSON.stringify(data );
+
+          // Sending data with the request
+          xhr.send(dataYo);
+    
+        });
+*/              
+      } );
+    </script>    
+{% endblock %}

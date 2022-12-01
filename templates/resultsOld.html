@@ -1,0 +1,54 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron">
+    <h1>Results</h1>
+    <small>
+    {{sequence}}
+    </small>
+    <table id="resultTable" class="display table nowrap responsive" style="width: 100%">
+         <thead>
+          <tr>
+              <th>Name2</th>
+              <th>Item Name</th>
+              <th>Item Price</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr>
+            <td>Alvin</td>
+            <td>Eclair</td>
+            <td>$0.87</td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+          </tr>
+          <tr>
+            <td>Jonathan</td>
+            <td>Lollipop</td>
+            <td>$7.00</td>
+          </tr>
+        </tbody>
+    </table>
+
+    {{ table_html | safe }}
+
+    <div id="chart" class="chart">
+    </div>
+
+
+  <script type="text/javascript">
+    $('#table_html').DataTable();
+    $('#resultTable').DataTable();
+  </script>
+
+    <script>
+        var graphs = {{plot | safe}};
+        Plotly.plot('chart',graphs,{});
+    </script>
+
+
+{% endblock %}
