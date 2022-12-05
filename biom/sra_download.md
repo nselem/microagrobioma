@@ -26,7 +26,7 @@ gunzip -k -v *.gz
 
 ## Descripción de los archivos descargados
 
-Los archivos descargados se resumen en la siguiente tabla. Los estudios a los que corresponden los números se describen después de la tabla.
+Los archivos se descargaron en el directorio `/datos/metamex` y se resumen en la siguiente tabla. Los estudios a los que corresponden los números se describen después de la tabla.
 
 |Accesión|Tipo de secuenciación|Parte de planta|Descripción|Estudio|
 |:-:|:-:|:-:|:-:|:-:|
