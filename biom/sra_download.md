@@ -89,6 +89,8 @@ Los estudios se encuentran numerados de la siguiente manera:
 4. Corresponde a [Gs0132935](https://gold.jgi.doe.gov/study?id=Gs0132935): *Coralloid root microbial communities from various locations in Chiapas, Mexico*.
 5. Corresponde a [Gs0114676](https://gold.jgi.doe.gov/study?id=Gs0114676): *Root nodule microbial communities of legume samples collected from USA, Mexico and Botswana*.
 
+Posterior a la descarga, todas las muestras fueron pasadas a BIOM y fueron guardadas en el directorio `/datos/metamex/biom_files`. También se generaron archivos BIOM por estudio, los cuales se guardaron en `/datos/metamex/biom_files/biom_by_study`.
+
 ## Anexo: contenidos del script `sra_downloader.py`
 
 ```python
