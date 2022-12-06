@@ -16,11 +16,11 @@ Becarios
 - Susana Abigail Herrera Herrera 	CVU:
 
 Otros participantes  
-- Erick Díaz   
 - Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
-- Anton Pashkov   			CGitHub:[aapashkov](https://github.com/aapashkov)
 - Shaday Flores Guerrero   		CVU:659812 GitHub:[shadayguerrero](https://github.com/shadayguerrero)
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
+- Anton Pashkov   			GitHub:[aapashkov](https://github.com/aapashkov)
+- Erick Omar Díaz Valenzuela   
 
 
 ## Datos y Software desarrollado  
