@@ -35,10 +35,13 @@ Simulador de reads metagenómicos en Python.
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
 [Simulacion metagenoma clavibacter](https://github.com/shadayguerrero/TDA-Metaganomas) (César y Shaday)  
 [Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)  
+[Clasificación de microbiomas de rizósfera Hackton](https://github.com/nselem/ccm-bioinfomatica-lab/tree/main/221119Hackaton)	
+Redes de co-ocurrencia en este repositorio
 
-Redes de co-ocurrencia
-[Código de comparación y clasificación de microbiomas de rizósfera Hackton]()	
-		
+### Disponibilidad al público 
+[En construcción redes de co-ocurrencia implementadas](http://132.248.196.38:5000/)
+[Descargas de biom](http://132.248.196.38:5000/)
+
 ## Entregables publicados  
 Capítulo libro:
 Como autor principal el M.C Diego Garfias Gallegos y cómo autora de correspondencia la doctora Nelly Sélem, se publicó un pipeline de cómo automatizar análisis de diversidad en datos de microbioma utilizando como ejemplo el microbioma de maíz. 
