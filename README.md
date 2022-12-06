@@ -3,7 +3,7 @@ Este repositorio reúne el trabajo realizado para el proyecto conacyt 320237
 
 ## Participantes  
 Investigadora 
-Nelly Sélem Mojica  
+Nelly Sélem Mojica  			CVU:39289 Github:[nselem](https://github.com/nselem)  
 
 Investigadores asociados  
 - M.C. Diego Garfias Gallegos  		CVU:846164 GitHub:[bedxxe](https://github.com/bedxxe) 
