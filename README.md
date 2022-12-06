@@ -1,5 +1,5 @@
-# This repo contains the work for conacyt project  
-"MicroAgrobioma, una plataforma para estudiar microbioma tradicional y cambio de hospedero en enfermedades de plantas de relevancia agrícola"
+# MicroAgrobioma, una plataforma para estudiar microbioma tradicional y cambio de hospedero en enfermedades de plantas de relevancia agrícola
+Este repositorio reúne el trabajo realizado para el proyecto conacyt 320237 
 
 ## Participantes  
 Investigadora 
@@ -22,23 +22,19 @@ Otros participantes
 - Shaday Flores Guerrero   
 - Haydee Adriana Contreras Peruyero  
 
-## Software desarrollado  
+## Datos y Software desarrollado  
+### Datos
+Obtención y documentación de microbiomas de cultivos que contienen Clavibacter(https://bedxxe.github.io/clavibacter/)  (Diego)  
+Obtención y documentación de microbiomas de otros cultivos mexicanos (Anton, Susana)   
+Datos solena (Diego Fernando)  
+### Software 
+Simulador de reads metagenómicos en python   
+[Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)  
 
-Datos cultivos que contienen Clavibacter (Diego)
-Datos de otros cultivos 
-Datos solena (Diego Fernando)
-Simulador
- EvoMining simulacion metagenoma clavibacter
+EvoMining 
+simulacion metagenoma clavibacter (César y Shaday)
 tda reconocimiento
- pangenoma
-	
-Clavibacter	
-(Documentación del Simulador de Camila )
- Simulador 	
-[Generador de reads](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  
-[Clavibacter Search](https://bedxxe.github.io/clavibacter/)  
-
-Otros microbiomas
+Pangenoma (Haydee, César, Erik)
 
 Redes de co-ocurrencia
 Resultados Hackton Camda	
