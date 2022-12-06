@@ -39,9 +39,9 @@ Simulador de reads metagenómicos en Python.
 Redes de co-ocurrencia en este repositorio
 
 ### Disponibilidad al público 
-[En construcción redes de co-ocurrencia implementadas](http://132.248.196.38:5000/)
-[Descargas de biom](http://132.248.196.38:5000/)
-
+[En construcción redes de co-ocurrencia implementadas](http://132.248.196.38:5000/)  
+[Descargas de biom](https://lab.matmor.unam.mx/files/index.php?p=)  
+ 
 ## Entregables publicados  
 Capítulo libro:
 Como autor principal el M.C Diego Garfias Gallegos y cómo autora de correspondencia la doctora Nelly Sélem, se publicó un pipeline de cómo automatizar análisis de diversidad en datos de microbioma utilizando como ejemplo el microbioma de maíz. 
