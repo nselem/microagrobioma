@@ -7,7 +7,7 @@ Nelly Sélem Mojica
 
 Investigadores asociados  
 - M.C. Diego Garfias Gallegos  		CVU:846164 GitHub:[bedxxe](https://github.com/bedxxe) 
-- M.C. Fernando Fontove Herrera   	CVU:335979 GitHub:[]()
+- M.C. Fernando Fontove Herrera   	CVU:335979 GitHub:[Fontove](https://github.com/Fontove)
 
 Becarios  
 - Julio César González Aquino 		CVU: 
@@ -17,10 +17,10 @@ Becarios
 
 Otros participantes  
 - Erick Díaz   
-- Paula Camila Silva Gómez  		CVU: GitHub:[]()
-- Anton Pashkov   			CVU: GitHub:[]()
-- Shaday Flores Guerrero   		CVU: GitHub:[]()
-- Haydee Adriana Contreras Peruyero    	CVU: GitHub:[]()
+- Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
+- Anton Pashkov   			CGitHub:[apashkov](https://github.com/apashkov)
+- Shaday Flores Guerrero   		CVU:659812 GitHub:[]()
+- Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
 
 
 ## Datos y Software desarrollado  
@@ -29,13 +29,12 @@ Otros participantes
 Obtención y documentación de microbiomas de otros cultivos mexicanos (Anton, Susana)   
 Datos solena (Diego Fernando)  
 ### Software 
-Simulador de reads metagenómicos en python   
+Simulador de reads metagenómicos en Python.  
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)  
-
-EvoMining 
-simulacion metagenoma clavibacter (César y Shaday)
-tda reconocimiento
-Pangenoma (Haydee, César, Erik)
+[Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)
+[Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César) 
+Simulacion metagenoma clavibacter (César y Shaday)
+[Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)
 
 Redes de co-ocurrencia
 [Código de comparación y clasificación de microbiomas de rizósfera Hackton]()	
