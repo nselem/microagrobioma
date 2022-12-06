@@ -12,7 +12,7 @@ Investigadores asociados
 Becarios  
 - Julio César González Aquino 		CVU: 
 - Dr. César Alfonso Díaz Mijangos	CVU:589346 GitHub:[CsarMijangos](https://github.com/CsarMijangos)
-- Jazmín López Chacón 			CVU: GitHub:[tipicanerd]((https://github.com/tipicanerd)
+- Jazmín López Chacón 			CVU: GitHub:[tipicanerd](https://github.com/tipicanerd)
 - Susana Abigail Herrera Herrera 	CVU:
 
 Otros participantes  
@@ -25,7 +25,7 @@ Otros participantes
 
 ## Datos y Software desarrollado  
 ### Datos
-Obtención y documentación de microbiomas de cultivos que contienen Clavibacter(https://bedxxe.github.io/clavibacter/)  (Diego)  
+[Obtención y documentación de microbiomas de cultivos que contienen Clavibacter](https://bedxxe.github.io/clavibacter/)  (Diego)  
 Obtención y documentación de microbiomas de otros cultivos mexicanos (Anton, Susana)   
 Datos solena (Diego Fernando)  
 ### Software 
