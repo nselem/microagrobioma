@@ -18,7 +18,7 @@ Becarios
 Otros participantes  
 - Erick Díaz   
 - Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
-- Anton Pashkov   			CGitHub:[apashkov](https://github.com/apashkov)
+- Anton Pashkov   			CGitHub:[aapashkov](https://github.com/aapashkov)
 - Shaday Flores Guerrero   		CVU:659812 GitHub:[]()
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
 
