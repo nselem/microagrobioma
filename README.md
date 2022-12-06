@@ -19,7 +19,7 @@ Otros participantes
 - Erick Díaz   
 - Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
 - Anton Pashkov   			CGitHub:[aapashkov](https://github.com/aapashkov)
-- Shaday Flores Guerrero   		CVU:659812 GitHub:[]()
+- Shaday Flores Guerrero   		CVU:659812 GitHub:[shadayguerrero](https://github.com/shadayguerrero)
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
 
 
@@ -33,7 +33,7 @@ Simulador de reads metagenómicos en Python.
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)    
 [Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)  
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
-Simulacion metagenoma clavibacter (César y Shaday)  
+[Simulacion metagenoma clavibacter](https://github.com/shadayguerrero/TDA-Metaganomas) (César y Shaday)  
 [Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)  
 
 Redes de co-ocurrencia
@@ -50,7 +50,7 @@ Methods in Molecular Biology book series (MIMB,volume 2512)
 [Poster del evento](https://twitter.com/nselem35/status/1575979433085009920/photo/1)
 
 ### Congresos 
-- CAB 2022   Plática corta sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso de ecología microbiana Connections across borders  (Dra Nelly Sélem)
-- WBDS 2022  Conferencia principal sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso Women in data science in bioinformatics  (Dra Nelly Sélem)  
-- ISCB 2022  Poster del simulador de reads con metagenomas que contienen _Clavibacter_ (Lic Camila y el MC Diego Garfias)  
+- [CAB 2022](https://microbe-connections.org/)   Plática corta sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso de ecología microbiana Connections across borders  (Dra Nelly Sélem)
+- [WBDS 2022](https://wbds.la/conferences/3WBDSLAC/speakers.html)  Conferencia principal sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso Women in data science in bioinformatics  (Dra Nelly Sélem)  
+- [ISCB 2022](https://www.iscb.org/la2022)  Poster del simulador de reads con metagenomas que contienen _Clavibacter_ (Lic Camila y el MC Diego Garfias)  
 	     Poster del pangenoma de _Clavibacter_ e identificación a nivel especie de los reads de _Clavibacter_ en un metagenoma (Shaday y Haydee)  
