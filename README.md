@@ -11,8 +11,8 @@ Investigadores asociados
 
 Becarios  
 - Julio César González Aquino 		CVU: 
-- Dr. César Alfonso Díaz Mijangos	CVU:589346 GitHub:[CsarMijangos](https://github.com/CsarMijangos)
-- Jazmín López Chacón 			CVU: GitHub:[tipicanerd](https://github.com/tipicanerd)
+- Dr. César Alfonso Díaz Mijangos	CVU:589346   GitHub:[CsarMijangos](https://github.com/CsarMijangos)
+- Jazmín López Chacón 			CVU:1262492  GitHub:[tipicanerd](https://github.com/tipicanerd)
 - Susana Abigail Herrera Herrera 	CVU:
 
 Otros participantes  
