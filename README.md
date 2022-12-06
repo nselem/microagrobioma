@@ -37,7 +37,7 @@ tda reconocimiento
 Pangenoma (Haydee, César, Erik)
 
 Redes de co-ocurrencia
-Resultados Hackton Camda	
+[Código de comparación y clasificación de microbiomas de rizósfera Hackton]()	
 		
 ## Entregables publicados  
 Capítulo libro:
@@ -47,6 +47,8 @@ Methods in Molecular Biology book series (MIMB,volume 2512)
 
 ## Actividades y eventos relacionados  
 - Hackaton Taller de problemas y aplicaciones matemáticas a datos biológicos (Fernando Fontove, César Mijangos, Shaday Flores y Haydee Peruyero, Susana, Julio César, Jazmín)  
+[Poster del evento](https://twitter.com/nselem35/status/1575979433085009920/photo/1)
+
 ### Congresos 
 - CAB 2022   Plática corta sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso de ecología microbiana Connections across borders  (Dra Nelly Sélem)
 - WBDS 2022  Conferencia principal sobre la identificación de lecturas de _Clavibacter_ en datos metagenómicos del cogreso Women in data science in bioinformatics  (Dra Nelly Sélem)  
