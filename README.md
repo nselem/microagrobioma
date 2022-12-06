@@ -6,21 +6,22 @@ Investigadora
 Nelly Sélem Mojica  
 
 Investigadores asociados  
-- M.C. Diego Garfias Gallegos  
-- M.C. Fernando Fontove Herrera   
+- M.C. Diego Garfias Gallegos  		CVU:846164 GitHub:[bedxxe](https://github.com/bedxxe) 
+- M.C. Fernando Fontove Herrera   	CVU:335979 GitHub:[]()
 
 Becarios  
-- Julio César González Aquino mapeos de reads a genomas
-- César Alfonso Díaz Mijangos
-- Jazmín López Chacón 
-- Susana Abigail Herrera Herrera Benéficos/patógenos
+- Julio César González Aquino 		CVU: 
+- Dr. César Alfonso Díaz Mijangos	CVU:589346 GitHub:[CsarMijangos](https://github.com/CsarMijangos)
+- Jazmín López Chacón 			CVU: GitHub:[tipicanerd]((https://github.com/tipicanerd)
+- Susana Abigail Herrera Herrera 	CVU:
 
 Otros participantes  
 - Erick Díaz   
-- Paula Camila Silva Gómez  
-- Anton Pashkov   
-- Shaday Flores Guerrero   
-- Haydee Adriana Contreras Peruyero  
+- Paula Camila Silva Gómez  		CVU: GitHub:[]()
+- Anton Pashkov   			CVU: GitHub:[]()
+- Shaday Flores Guerrero   		CVU: GitHub:[]()
+- Haydee Adriana Contreras Peruyero    	CVU: GitHub:[]()
+
 
 ## Datos y Software desarrollado  
 ### Datos
