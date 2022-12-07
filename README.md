@@ -10,10 +10,10 @@ Investigadores asociados
 - M.C. Fernando Fontove Herrera   	CVU:335979 GitHub:[Fontove](https://github.com/Fontove)
 
 Becarios  
-- Julio César González Aquino 		CVU: 
+- Julio César González Aquino 		CVU:1262738
 - Dr. César Alfonso Díaz Mijangos	CVU:589346   GitHub:[CsarMijangos](https://github.com/CsarMijangos)
 - Jazmín López Chacón 			CVU:1262492  GitHub:[tipicanerd](https://github.com/tipicanerd)
-- Susana Abigail Herrera Herrera 	CVU:
+- Susana Abigail Herrera Herrera 	CVU:1262861
 
 Otros participantes  
 - Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
