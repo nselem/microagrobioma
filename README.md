@@ -35,7 +35,7 @@ Simulador de reads metagenómicos en Python.
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
 [Simulacion metagenoma clavibacter](https://github.com/shadayguerrero/TDA-Metaganomas) (César y Shaday)  
 [Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)  
-[Clasificación de microbiomas de rizósfera Hackton](https://github.com/nselem/ccm-bioinfomatica-lab/tree/main/221119Hackaton)	
+[Clasificación de microbiomas de rizósfera Hackton](https://github.com/nselem/ccm-bioinfomatica-lab/tree/main/221119Hackaton)	  
 Redes de co-ocurrencia en este repositorio
 
 ### Disponibilidad al público 
