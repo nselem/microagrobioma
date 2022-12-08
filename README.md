@@ -26,8 +26,8 @@ Otros participantes
 ## Datos y Software desarrollado  
 ### Datos
 [Obtención y documentación de microbiomas de cultivos que contienen Clavibacter](https://bedxxe.github.io/clavibacter/)  (Diego)    
-Obtención y documentación de microbiomas de otros cultivos mexicanos (Anton, Susana)     
-Datos solena (Diego Fernando)    
+[Obtención y documentación de microbiomas de otros cultivos mexicanos](https://github.com/nselem/microagrobioma/blob/main/biom/metamex_full.csv) (Anton, Susana)     
+[Datos solena](https://bedxxe.github.io/clavibacter/episodes/solena-data.html) (Diego Fernando)    
 ### Software 
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)    
 [Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)  
