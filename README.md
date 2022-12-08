@@ -29,7 +29,6 @@ Otros participantes
 Obtención y documentación de microbiomas de otros cultivos mexicanos (Anton, Susana)     
 Datos solena (Diego Fernando)    
 ### Software 
-Simulador de reads metagenómicos en Python.  
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)    
 [Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)  
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
