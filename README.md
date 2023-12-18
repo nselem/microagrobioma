@@ -22,8 +22,8 @@ Otros participantes
 - Shaday Flores Guerrero   		CVU:659812 GitHub:[shadayguerrero](https://github.com/shadayguerrero)
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
 - Anton Pashkov   			CVU:1300257 GitHub:[aapashkov](https://github.com/aapashkov)
+- Mario Jardón Santos			CVU:926448
 - Karina Enríquez Guillén		CVU:
-- Mario Jardón Santos
 - Erick Omar Díaz Valenzuela   
 
 
