@@ -1,5 +1,6 @@
 # MicroAgrobioma, una plataforma para estudiar microbioma tradicional y cambio de hospedero en enfermedades de plantas de relevancia agrícola
 Este repositorio reúne el trabajo realizado para el proyecto conacyt 320237 
+La base de datos que contiene los microbiomas de rizósfera se encuentra en este link -> [MicroAgroBiom DB](https://132.248.196.39:5000/)
 
 ## Participantes  
 Investigadora 
@@ -14,12 +15,15 @@ Becarios
 - Dr. César Alfonso Díaz Mijangos	CVU:589346   GitHub:[CsarMijangos](https://github.com/CsarMijangos)
 - Jazmín López Chacón 			CVU:1262492  GitHub:[tipicanerd](https://github.com/tipicanerd)
 - Susana Abigail Herrera Herrera 	CVU:1262861
-
+- Rafael Pérez Estrada			CVU:1223634
+  
 Otros participantes  
 - Paula Camila Silva Gómez  		CVU:1093754 GitHub:[CamilaSilva1995](https://github.com/CamilaSilva1995)
 - Shaday Flores Guerrero   		CVU:659812 GitHub:[shadayguerrero](https://github.com/shadayguerrero)
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
-- Anton Pashkov   			GitHub:[aapashkov](https://github.com/aapashkov)
+- Anton Pashkov   			CVU:1300257 GitHub:[aapashkov](https://github.com/aapashkov)
+- Karina Enríquez Guillén		CVU:
+- Mario Jardón Santos
 - Erick Omar Díaz Valenzuela   
 
 
@@ -29,6 +33,7 @@ Otros participantes
 [Obtención y documentación de microbiomas de otros cultivos mexicanos](https://github.com/nselem/microagrobioma/blob/main/biom/metamex_full.csv) (Anton, Susana)     
 [Datos solena](https://bedxxe.github.io/clavibacter/episodes/solena-data.html) (Diego Fernando)    
 ### Software 
+[Contenedor procesamiento de reads crudos a tablas de abundancia](https://github.com/ccm-bioinfo/cambda2023)
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)    
 [Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)  
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
@@ -36,6 +41,7 @@ Otros participantes
 [Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)  
 [Clasificación de microbiomas de rizósfera Hackton](https://github.com/nselem/ccm-bioinfomatica-lab/tree/main/221119Hackaton)	  
 Redes de co-ocurrencia en este repositorio
+[Organismos clave en redes de co ocurrencia](https://github.com/MarioJardonS)
 
 ### Disponibilidad al público 
 [En construcción redes de co-ocurrencia implementadas](http://132.248.196.38:5000/)  
