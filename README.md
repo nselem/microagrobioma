@@ -33,15 +33,15 @@ Otros participantes
 [Obtención y documentación de microbiomas de otros cultivos mexicanos](https://github.com/nselem/microagrobioma/blob/main/biom/metamex_full.csv) (Anton, Susana)     
 [Datos solena](https://bedxxe.github.io/clavibacter/episodes/solena-data.html) (Diego Fernando)    
 ### Software 
-[Contenedor procesamiento de reads crudos a tablas de abundancia](https://github.com/ccm-bioinfo/cambda2023)
+[Contenedor procesamiento de reads crudos a tablas de abundancia](https://github.com/ccm-bioinfo/cambda2023)  (Rafael, Antón, Nelly)
 [Simulador de reads metagenómicos en python](https://github.com/CamilaSilva1995/Tesis_Maestria/tree/main/Generador_de_reads)  (Camila y Jazmin)    
 [Pangenoma de Clavibacter](https://github.com/HaydeePeruyero/Pangenome_) (Haydee, César, Erik)  
 [Adaptación de EvoMining para Python con miras a datos metagenómicos](https://github.com/CsarMijangos/CsarPos) (César)   
 [Simulacion metagenoma clavibacter](https://github.com/shadayguerrero/TDA-Metaganomas) (César y Shaday)  
 [Tda reconocimiento](https://github.com/HaydeePeruyero/TDA_Pangenomics) (Haydee, Shaday)  
 [Clasificación de microbiomas de rizósfera Hackton](https://github.com/nselem/ccm-bioinfomatica-lab/tree/main/221119Hackaton)	  
-Redes de co-ocurrencia en este repositorio
-[Organismos clave en redes de co ocurrencia](https://github.com/MarioJardonS)
+Redes de co-ocurrencia en este repositorio  
+[Organismos clave en redes de co ocurrencia](https://github.com/MarioJardonS)  
 
 ### Disponibilidad al público 
 [En construcción redes de co-ocurrencia implementadas](http://132.248.196.38:5000/)  
