@@ -1,6 +1,6 @@
 # MicroAgrobioma, una plataforma para estudiar microbioma tradicional y cambio de hospedero en enfermedades de plantas de relevancia agrícola  
 Este repositorio reúne el trabajo realizado para el proyecto conacyt 320237   
-La base de datos que contiene los microbiomas de rizósfera se encuentra en este link -> [MicroAgroBiom DB](https://132.248.196.39:5000/)  
+La base de datos que contiene los microbiomas de rizósfera se encuentra en este link -> [MicroAgroBiom DB](http://132.248.196.39:5000/)  
 
 ## Participantes  
 Investigadora 
