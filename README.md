@@ -23,7 +23,7 @@ Otros participantes
 - Haydee Adriana Contreras Peruyero    	CVU:590371 GitHub:[HaydeePeruyero](https://github.com/HaydeePeruyero)
 - Anton Pashkov   			CVU:1300257 GitHub:[aapashkov](https://github.com/aapashkov)
 - Mario Jardón Santos			CVU:926448
-- Karina Enríquez Guillén		CVU:
+- Karina Enríquez Guillén		CVU:1338796
 - Erick Omar Díaz Valenzuela   
 
 
